@@ -7,3 +7,15 @@ Apa itu HTML?<br>
 -HTML terdiri dari serangkaian elemen<br>
 -Elemen HTML memberi tahu browser cara menampilkan konten<br>
 -Elemen HTML memberi label pada bagian konten seperti "ini adalah judul", "ini adalah paragraf", "ini adalah tautan", dll.<br>
+
+1. HTML Element
+2. HTML
+3. HTML
+4. HTML
+5. HTML
+6. HTML
+7. HTML
+8. HTML
+9. HTML
+10. HTML
+11. HTML
