@@ -9,7 +9,7 @@ Apa itu HTML?<br>
 -Elemen HTML memberi label pada bagian konten seperti "ini adalah judul", "ini adalah paragraf", "ini adalah tautan", dll.<br>
 
 1. HTML Element
-2. HTML
+
 3. HTML
 4. HTML
 5. HTML
@@ -19,3 +19,4 @@ Apa itu HTML?<br>
 9. HTML
 10. HTML
 11. HTML
+12. HTML
