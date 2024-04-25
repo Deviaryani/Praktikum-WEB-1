@@ -125,7 +125,22 @@ Adapun jenis List bersarang<br>
 ![result8](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/b9c87db6-3ff0-444f-ae89-82262b787961)
 
 
-7. Tingkat blok Element<br>
+7. HTML Div
+
+Elemen ini <div>sering digunakan untuk mengelompokkan bagian-bagian halaman web menjadi satu.
+
+- Elemen tingkat blok selalu dimulai pada baris baru, dan browser secara otomatis menambahkan beberapa spasi (margin) sebelum dan sesudah elemen.<br>
+- Elemen tingkat blok selalu menempati seluruh lebar yang tersedia (meregangkan ke kiri dan kanan sejauh mungkin).<br>
+- Dua elemen blok yang umum digunakan adalah: <p> dan <div>.<br>
+  Elemen <p>mendefinisikan paragraf dalam dokumen HTML.<br>
+  Elemen <div>mendefinisikan divisi atau bagian dalam dokumen HTML.
+  
+![code7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0a5a2d85-d45b-42fd-9ba8-2efd9104ff6c)
+
+  ![result7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f9bb7b8c-6013-4ea6-9d1c-22daa1fc5299)
+
+
+8. Tingkat blok Element<br>
 
 - Elemen tingkat blok selalu dimulai pada baris baru, dan browser secara otomatis menambahkan beberapa spasi (margin) sebelum dan sesudah elemen.<br>
 - Elemen tingkat blok selalu menempati seluruh lebar yang tersedia (meregangkan ke kiri dan kanan sejauh mungkin).<br>
