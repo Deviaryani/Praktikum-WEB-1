@@ -9,6 +9,7 @@
 - Elemen HTML memberi tahu browser cara menampilkan konten<br>
 - Elemen HTML memberi label pada bagian konten seperti "ini adalah judul", "ini adalah paragraf", "ini adalah tautan", dll.<br>
 
+
 Penjelasan:
 
 Deklarasi tersebut !DOCTYPE html mendefinisikan bahwa dokumen ini adalah dokumen HTML5<br>
@@ -52,18 +53,21 @@ Atribut title mendefinisikan beberapa informasi tambahan tentang suatu elemen
   1. Heading HTML<br>
 Heading HTML ditentukan dengan tag h1 to h6. h1 mendefinisikan judul yang paling penting. h6 mendefinisikan judul yang paling tidak penting
 
+
 - code<br>
 ![code1](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0e13c24b-2762-43cd-994a-1a59937dc733)
 
+
 - hasil<br>
 ![1 head](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/7162d018-cf56-4820-8538-043f5d8bebae)
+
 
 
 Adapun jika dimodifikasi ditambahkan css<br>
 - code<br>
 ![head-css](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0e164c0e-6196-489e-8b61-1656a4d4c558)
 
--hasil<br>
+- hasil<br>
 ![value-headcss](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/5ab55b62-5cac-4f74-88c3-4b9faf5dbfd8)
 
 
@@ -84,6 +88,7 @@ Link HTML ditentukan dengan a tag. Tujuan link ditentukan dalam href atribut.<br
 
 ![code3](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f37986b7-a7f9-4447-b10c-7f09ad245aed)
 
+
 ![3 link](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/aa0eaa3f-2eac-457f-b078-cf71dff80217)
 
 
@@ -93,6 +98,7 @@ Gambar HTML ditentukan dengan img tag. File sumber ( src), teks alternatif ( alt
 
 ![code3](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/08730500-bfd0-4ea9-af2f-deca98a5af55)
 
+
 ![result-code5](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/ad3082b6-870c-4664-aba7-29a702c277ee)
 
 
@@ -100,6 +106,7 @@ Gambar HTML ditentukan dengan img tag. File sumber ( src), teks alternatif ( alt
   5. Table HTML<br>
 
 ![code6](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/2351afb2-0ad7-4893-80ae-f416e58545bc)
+
 
 ![result6](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/4f8ad34a-a408-4bfb-87f2-58126d94cf9f)
 
@@ -112,15 +119,20 @@ Gambar HTML ditentukan dengan img tag. File sumber ( src), teks alternatif ( alt
   ![result7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f9bb7b8c-6013-4ea6-9d1c-22daa1fc5299)
 
 
-
-Adapun List bersarang<br>
+Adapun jenis List bersarang<br>
 ![code8](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f718ca57-fdbb-4b95-b27d-e113a68b1698)
 
 ![result8](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/b9c87db6-3ff0-444f-ae89-82262b787961)
 
 
-7. List HTML<br>
+7. Tingkat blok Element<br>
 
+- Elemen tingkat blok selalu dimulai pada baris baru, dan browser secara otomatis menambahkan beberapa spasi (margin) sebelum dan sesudah elemen.<br>
+- Elemen tingkat blok selalu menempati seluruh lebar yang tersedia (meregangkan ke kiri dan kanan sejauh mungkin).<br>
+- Dua elemen blok yang umum digunakan adalah: <p> dan <div>.<br>
+  Elemen <p>mendefinisikan paragraf dalam dokumen HTML.<br>
+  Elemen <div>mendefinisikan divisi atau bagian dalam dokumen HTML.
+  
 ![code7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0a5a2d85-d45b-42fd-9ba8-2efd9104ff6c)
 
   ![result7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f9bb7b8c-6013-4ea6-9d1c-22daa1fc5299)
