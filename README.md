@@ -48,6 +48,8 @@ Contoh berikut berisi empat elemen HTML ( html, body, h1 dan p)<br>
 
 Atribut title mendefinisikan beberapa informasi tambahan tentang suatu elemen 
 
+Untuk Menjelajah lebih dalam mengenai Atrribut-HTML bisa kunjungi <a href="https://www.w3schools.com/html/html_attributes.asp">www.w3schools.com/html/html_attributes</a>
+
 
 # Beberapa perintah di HTML:<br>
 <b>1. Heading HTML<br></b>
@@ -70,6 +72,7 @@ Adapun jika dimodifikasi ditambahkan css<br>
 - hasil<br>
 ![value-headcss](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/5ab55b62-5cac-4f74-88c3-4b9faf5dbfd8)
 
+Untuk Menjelajah lebih dalam mengenai Headings-HTML bisa kunjungi <a href="https://www.w3schools.com/html/html_headings.asp">www.w3schools.com/html/html_headings</a>
 
 
 <b>2. Paragraf HTML<br></b>
@@ -80,6 +83,7 @@ Paragraf HTML didefinisikan dengan tag p
 
 ![2 paragraph](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/7da7dd4a-d8e4-4e3b-a7c0-e58144395ae1)
 
+Untuk Menjelajah lebih dalam mengenai Paragraf HTML bisa kunjungi <a href="https://www.w3schools.com/html/html_paragraphs.asp">www.w3schools.com/html/html_paragraphs</a>
 
 
 <b>3. Link HTML<br></b>
@@ -91,6 +95,7 @@ Link HTML ditentukan dengan a tag. Tujuan link ditentukan dalam href atribut.<br
 
 ![3 link](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/aa0eaa3f-2eac-457f-b078-cf71dff80217)
 
+Untuk Menjelajah lebih dalam mengenai Tautan HTML bisa kunjungi <a href="https://www.w3schools.com/html/html_links.asp">www.w3schools.com/html/html_links</a>
 
 
   4. Gambar HTML<br>
@@ -101,6 +106,7 @@ Gambar HTML ditentukan dengan img tag. File sumber ( src), teks alternatif ( alt
 
 ![result-code5](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/ad3082b6-870c-4664-aba7-29a702c277ee)
 
+Untuk Menjelajah lebih dalam mengenai Gambar HTML bisa kunjungi <a href="https://www.w3schools.com/html/html_images.asp">www.w3schools.com/html/html_images</a>
 
 
 <b>5. Table HTML<br></b>
@@ -110,6 +116,7 @@ Gambar HTML ditentukan dengan img tag. File sumber ( src), teks alternatif ( alt
 
 ![result6](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/4f8ad34a-a408-4bfb-87f2-58126d94cf9f)
 
+Untuk Menjelajah lebih dalam mengenai Tabel HTML bisa kunjungi <a href="https://www.w3schools.com/html/html_tables.asp">www.w3schools.com/html/html_tables</a>
 
 
 <b>6. List HTML<br></b>
@@ -124,6 +131,7 @@ Adapun jenis List bersarang<br>
 
 ![result8](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/b9c87db6-3ff0-444f-ae89-82262b787961)
 
+Untuk Menjelajah lebih dalam mengenai List HTML bisa kunjungi <a href="https://www.w3schools.com/html/html_lists.asp">www.w3schools.com/html/html_lists</a>
 
 <b>7. HTML Div</b>
 
@@ -139,6 +147,7 @@ Elemen ini sering digunakan untuk mengelompokkan bagian-bagian halaman web menja
 
   ![result7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f9bb7b8c-6013-4ea6-9d1c-22daa1fc5299)
 
+Untuk Menjelajah lebih dalam mengenai Div HTML bisa kunjungi <a href="https://www.w3schools.com/html/html_div.asp">www.w3schools.com/html/html_div</a>
 
 <b>8. HTML CLASS<br></b>
 
@@ -152,6 +161,7 @@ Pada contoh berikut kita memiliki tiga <div>elemen dengan classatribut dengan ni
 
 ![result-class](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/39cc2d47-4237-4275-9feb-138cbe8cdf74)
 
+Untuk Menjelajah lebih dalam mengenai Class HTML bisa kunjungi <a href="https://www.w3schools.com/html/html_classes.asp">www.w3schools.com/html/html_classes</a>
 
 <b>9. Tingkat blok Element<br></b>
 
@@ -167,6 +177,8 @@ Pada contoh berikut kita memiliki tiga <div>elemen dengan classatribut dengan ni
 ![code-blokelement](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/29558bf3-10ec-4f3a-b6de-67951b245919)
 
 ![result-blok](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/31167913-59cd-4bfb-bd9f-13a269db4cd5)
+
+Untuk Menjelajah lebih dalam mengenai Tingkat Blok Element HTML bisa kunjungi <a href="https://www.w3schools.com/html/html_blocks.asp">www.w3schools.com/html/html_blocks</a>
 
 
 <hr>
@@ -271,7 +283,7 @@ h2 {
 }
 
 
-
+Untuk Menjelajah lebih dalam mengenai CSS-SELECTOR bisa kunjungi <a href="https://www.w3schools.com/css/css_selectors.asp">www.w3schools.com/html/css_selectors.asp</a>
 
 
 # Tiga Cara Memasukkan CSS
@@ -308,6 +320,8 @@ contoh script:
 ![Screenshot (308)](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/71c65f87-f2d7-4baf-865d-34a1f4675153)
 
 Gaya inline dapat digunakan untuk menerapkan gaya unik pada satu elemen.
+
+<b>Untuk Menjelajah lebih dalam mengenai Cara Memasukan CSS bisa kunjungi <a href="https://https://www.w3schools.com/css/css_howto.asp">www.w3schools.com/html/css_howto.asp</a></b>
 
 
 # Perintah di CSS:
@@ -637,11 +651,12 @@ Dalam contoh berikut, sebuah onclickatribut (dengan kode), ditambahkan ke sebuah
 
 ![code-onclick](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0231bb89-e02b-420c-b789-faa20137279d)
 
-Ini adalah tampilan awal sebelum button <b>The time is<b> dipencet
+Ini adalah tampilan awal sebelum button <b>Waktunya?<b> dipencet
 
 ![onclick1](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/b57311e4-e2f3-4807-9c6b-71e246b63aec)
 
-Ini adalah tampilan setelah button <b>The time is<b> dipencet
+<br>
+Ini adalah tampilan setelah button <b>Waktunya?<b> dipencet
 
 ![onclick2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/a4647cab-d417-4fe3-a4a8-e4ba0dab8b8a)
 
