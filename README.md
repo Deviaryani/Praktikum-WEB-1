@@ -140,20 +140,34 @@ Elemen ini <div>sering digunakan untuk mengelompokkan bagian-bagian halaman web 
   ![result7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f9bb7b8c-6013-4ea6-9d1c-22daa1fc5299)
 
 
-8. Tingkat blok Element<br>
+8. HTML CLASS<br>
+
+Atribut ini classsering digunakan untuk menunjuk ke nama kelas dalam style sheet. Itu juga dapat digunakan oleh JavaScript untuk mengakses dan memanipulasi elemen dengan nama kelas tertentu.
+
+Pada contoh berikut kita memiliki tiga <div>elemen dengan classatribut dengan nilai "kota". Ketiga <div> elemen tersebut akan diberi gaya yang sama sesuai dengan .city definisi gaya di bagian kepala:
+
+![code-class2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/2acaa3b7-7a8f-4c45-a546-2ab0738b57f5)
+
+![code-class1](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/a1e1dca9-18c4-48fd-835e-7065975d4f38)
+
+![result-class](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/39cc2d47-4237-4275-9feb-138cbe8cdf74)
+
+
+9. Tingkat blok Element<br>
 
 - Elemen tingkat blok selalu dimulai pada baris baru, dan browser secara otomatis menambahkan beberapa spasi (margin) sebelum dan sesudah elemen.<br>
 - Elemen tingkat blok selalu menempati seluruh lebar yang tersedia (meregangkan ke kiri dan kanan sejauh mungkin).<br>
 - Dua elemen blok yang umum digunakan adalah: <p> dan <div>.<br>
   Elemen <p>mendefinisikan paragraf dalam dokumen HTML.<br>
   Elemen <div>mendefinisikan divisi atau bagian dalam dokumen HTML.
-  
-![code7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0a5a2d85-d45b-42fd-9ba8-2efd9104ff6c)
-
-  ![result7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f9bb7b8c-6013-4ea6-9d1c-22daa1fc5299)
 
 
+![code-blokelement](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/29558bf3-10ec-4f3a-b6de-67951b245919)
 
+![result-blok](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/31167913-59cd-4bfb-bd9f-13a269db4cd5)
+
+
+<hr>
 
 <h1>B. CSS</h1>
 
@@ -187,10 +201,9 @@ penjelasan:<br>
 - text-align adalah properti, dan center merupakan nilai properti
 
 
+# CSS SELECTOR
 
-# ID selector
-
-<b>selector ID CSS</b>
+<b>1. selector ID CSS</b>
 
 - selector id menggunakan atribut id dari elemen HTML untuk memilih elemen tertentu.<br>
 - Id suatu elemen bersifat unik dalam suatu halaman, sehingga pemilih id digunakan untuk memilih satu elemen unik!<br>
@@ -205,7 +218,7 @@ Contoh:
 }
 
 
-# Class selector<br>
+<b>2. Class selector</b>
 
 - selector class CSS<br>
 - selector class memilih elemen HTML dengan atribut kelas tertentu.<br>
@@ -221,7 +234,7 @@ Contoh:
 
 
 
-# Universal selector
+<b>3. Universal selector</b>
 
 - selector Universal CSS<br>
 - selector universal (*) memilih semua elemen HTML pada halaman.<br>
@@ -236,7 +249,7 @@ contoh:
 
 
 
-# Grouping selector
+<b>4. Grouping selector</b>
 
 - Grouping selector CSS<br>
 - grouping selector memilih semua elemen HTML dengan definisi gaya yang sama.<br>
@@ -295,10 +308,16 @@ contoh script:
 Gaya inline dapat digunakan untuk menerapkan gaya unik pada satu elemen.
 
 
-a. Perintah di CSS:
+# Perintah di CSS:
 
-* List
+<b>1. List - CSS</b>
 
+CSS Style dapat digunakan untuk:
+
+- Tetapkan penanda item daftar yang berbeda untuk daftar yang dipesan<br>
+- Tetapkan penanda item daftar yang berbeda untuk daftar tidak berurutan<br>
+- Tetapkan gambar sebagai penanda item daftar<br>
+- Tambahkan warna latar belakang ke daftar dan item daftar<br>
 
 ![codelist2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/ec121d33-1d7d-4fbc-9fc5-39e1f800fe24)
 
@@ -306,50 +325,62 @@ a. Perintah di CSS:
 
 ![list-css](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/ad649c27-8f6f-4320-876b-1e4106aef481)
 
+Untuk Menjelajah lebih dalam mengenai CSS-List bisa kunjungi <a href="https://www.w3schools.com/css/css_list.asp">www.w3schools.com/css/css_list</a>
 
-  * Letter Spacing
+<b>2. Letter Spacing</b>
+
+Properti ini letter-spacingdigunakan untuk menentukan spasi antar karakter dalam teks.
+
+Contoh berikut menunjukkan cara menambah atau mengurangi spasi antar karakter:
+
+  ![code-letterspace](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0707bb6f-72ca-42aa-9112-5a9f3ea5ca1d)
+
+  ![letter-space](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/cfea5f5f-2436-48d3-836c-3dfec78fbea4)
+
+Untuk Menjelajah lebih dalam mengenai CSS-Text bisa kunjungi <a href="https://www.w3schools.com/css/css_text_spacing.asp">www.w3schools.com/css/css_text_spacing</a>
+
+<b>3. Box Model</b>
+
+Dalam CSS, istilah "model kotak" digunakan ketika berbicara tentang desain dan tata letak.
+
+Model kotak CSS pada dasarnya adalah sebuah kotak yang membungkus setiap elemen HTML. Terdiri dari: konten, padding, batas dan margin. Gambar di bawah mengilustrasikan model kotak:
+
  
-    ![code-letterspace](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0707bb6f-72ca-42aa-9112-5a9f3ea5ca1d)
+  ![code-box](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/9e4d400e-b597-47ea-bb94-970f5cd99d45)
 
-    ![letter-space](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/cfea5f5f-2436-48d3-836c-3dfec78fbea4)
+  ![box](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/426f2c08-0894-4daa-b196-1f41cc4c0c85)
+
+Untuk Menjelajah lebih dalam mengenai CSS-Box Model bisa kunjungi <a href="https://www.w3schools.com/css/css_boxmodel.asp">www.w3schools.com/css/css_boxmodel</a>
 
 
-    * Box Model
+  <b>4. Border Style </b>
    
-      
-     ![code-box](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/9e4d400e-b597-47ea-bb94-970f5cd99d45)
-
-    ![box](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/426f2c08-0894-4daa-b196-1f41cc4c0c85)
+  Border table dengan CSS
 
 
-
-      * Border Style
-   
-        Border table dengan CSS
-
-
-        ![code-border](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/3e13221d-2e64-40a7-85e4-d838d5e07186)
+  ![code-border](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/3e13221d-2e64-40a7-85e4-d838d5e07186)
         
-        ![border-tabel-css](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/84f74b5d-6430-4651-b8df-7a3211d6a82d)
+  ![border-tabel-css](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/84f74b5d-6430-4651-b8df-7a3211d6a82d)
 
 
 
-        * Table Hover
+  <b>5. Tabel Hover </b>
 
-          ![code-hover2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/5de750ec-ec5c-4ba2-bfa1-c56bba8c66a5)
+  ![code-hover2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/5de750ec-ec5c-4ba2-bfa1-c56bba8c66a5)
           
-          ![code-hover](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/4e6e7ce1-5972-42dd-805d-d2ef60f09bd0)
+  ![code-hover](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/4e6e7ce1-5972-42dd-805d-d2ef60f09bd0)
           
-          ![hover](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/838549a3-2236-476b-99e8-779b0cd8f813)
+  ![hover](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/838549a3-2236-476b-99e8-779b0cd8f813)
          
 
-          * Text Color
+ <b>6. Text Color </b>
          
 ![code-text-color](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/a8364fd9-4497-4d23-b3e6-f0d1ef67cc53)
 
 ![text-color](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/2e5931bc-4c65-4d06-9f31-e7a714191191)
 
 
+<hr>
 
 C. JavaScript
 
