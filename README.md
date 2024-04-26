@@ -44,7 +44,7 @@ Contoh berikut berisi empat elemen HTML ( html, body, h1 dan p)<br>
 - Elemen h1 mendefinisikan judul. Ini memiliki tag awal h1 dan tag akhir /h1. Elemen p mendefinisikan paragraf.<br>
 - Ini memiliki tag awal p dan tag akhir /p.<br>
 - Elemen HTML yang tidak memiliki konten disebut elemen kosong.<br>
-- Tag br mendefinisikan jeda baris, dan merupakan elemen kosong tanpa tag penutup.<br>
+- Elemen br mendefinisikan jeda baris, dan merupakan elemen kosong tanpa tag penutup.<br>
 - Tag HTML tidak membedakan huruf besar dan kecil: P artinya sama dengan p.<br>
 - Standar HTML tidak memerlukan tag huruf kecil, tetapi direkomendasikan huruf kecil dalam HTML<br>
 
@@ -591,7 +591,9 @@ JavaScript dapat menangani banyak tipe data, tetapi untuk saat ini, angka dan st
 
 Untuk Menjelajah lebih dalam mengenai JS-Arithmetic bisa kunjungi <a href="https://www.w3schools.com/js/js_datatypes.asp">www.w3schools.com/js/js_datatypes</a>
 
-<b>4. arithmetic javascript<b>
+<b>4. Operator javascript<b>
+
+JavaScript menggunakan operator aritmatika ( + - * /) untuk menghitung nilai. JavaScript menggunakan operator penugasan ( =) untuk menetapkan nilai ke variabel.
 
 * Penjumlahan
 
@@ -624,7 +626,7 @@ Untuk Menjelajah lebih dalam mengenai JS-Arithmetic bisa kunjungi <a href="https
 
       ![pembagian](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/971aa63f-31b8-4f8a-a247-dc3488c11505)
 
-Untuk Menjelajah lebih dalam mengenai JS-Arithmetic bisa kunjungi <a href="https://www.w3schools.com/js/js_arithmetic.asp">www.w3schools.com/js/js_arithmetic</a>
+Untuk Menjelajah lebih dalam mengenai JS-Operator bisa kunjungi <a href="https://www.w3schools.com/js/js_operators.asp">www.w3schools.com/js/js_operators</a>
 
 <b>5. Function JavaScript</b>
 
@@ -674,3 +676,6 @@ Ini adalah tampilan setelah button <b>Waktunya?<b> dipencet
 ![onclick2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/a4647cab-d417-4fe3-a4a8-e4ba0dab8b8a)
 
 Untuk Menjelajah lebih dalam mengenai JS-Events bisa kunjungi <a href="https://www.w3schools.com/js/js_events.asp">www.w3schools.com/js/js_events</a>
+
+<hr>
+Info tentang JavaScript secara lengkap klik <a href="https://www.w3schools.com/js/default.asp">www.w3schools.com/js</a>
