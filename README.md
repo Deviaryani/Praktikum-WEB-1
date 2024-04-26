@@ -1,13 +1,13 @@
-## Praktikum-WEB-1
+<h1>Praktikum-WEB-1</h1>h1>
 <hr>
-<h1><b>Tugas 2</b></h1>
+<h2><b>Tugas 2</b></h2>
 <hr>
 Repositori Ini berisi tugas 2 dari mata kuliah Pemrograman Web tentang:<br>
 - HTML<br>
 - CSS<br>
 - JavaScript
 
-<h1>A. HTML</h1>
+<h2>A. HTML</h2>
 <hr>
 # Apa itu HTML?
 - HTML adalah singkatan dari Hyper Text Markup Language<br>
