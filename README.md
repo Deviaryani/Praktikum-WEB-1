@@ -157,7 +157,9 @@ Pada contoh berikut kita memiliki tiga <div>elemen dengan classatribut dengan ni
 
 - Elemen tingkat blok selalu dimulai pada baris baru, dan browser secara otomatis menambahkan beberapa spasi (margin) sebelum dan sesudah elemen.<br>
 - Elemen tingkat blok selalu menempati seluruh lebar yang tersedia (meregangkan ke kiri dan kanan sejauh mungkin).<br>
-- Dua elemen blok yang umum digunakan adalah: <p> dan <div>.<br>
+- Dua elemen blok yang umum digunakan adalah:<br>
+  tag p dan tag div
+
   Elemen <p>mendefinisikan paragraf dalam dokumen HTML.<br>
   Elemen <div>mendefinisikan divisi atau bagian dalam dokumen HTML.
 
@@ -329,7 +331,7 @@ Untuk Menjelajah lebih dalam mengenai CSS-List bisa kunjungi <a href="https://ww
 
 <b>2. Letter Spacing</b>
 
-Properti ini letter-spacingdigunakan untuk menentukan spasi antar karakter dalam teks.
+Properti ini letter-spacing digunakan untuk menentukan spasi antar karakter dalam teks.
 
 Contoh berikut menunjukkan cara menambah atau mengurangi spasi antar karakter:
 
@@ -353,18 +355,34 @@ Model kotak CSS pada dasarnya adalah sebuah kotak yang membungkus setiap elemen 
 Untuk Menjelajah lebih dalam mengenai CSS-Box Model bisa kunjungi <a href="https://www.w3schools.com/css/css_boxmodel.asp">www.w3schools.com/css/css_boxmodel</a>
 
 
-  <b>4. Border Style </b>
+  <b>4. Border Style</b>
+
+Properti border-stylemenentukan jenis batas yang akan ditampilkan.
+
+Nilai-nilai berikut diperbolehkan:
+
+- dotted- Mendefinisikan batas titik-titik<br>
+- dashed- Mendefinisikan batas putus-putus<br>
+- solid- Mendefinisikan batas yang solid<br>
+- double- Mendefinisikan perbatasan ganda<br>
+- groove- Mendefinisikan batas beralur 3D. Efeknya bergantung pada nilai warna batas<br>
+- ridge- Mendefinisikan batas bergerigi 3D. Efeknya bergantung pada nilai warna batas<br>
+- inset- Mendefinisikan batas sisipan 3D. Efeknya bergantung pada nilai warna batas<br>
+- outset- Mendefinisikan batas awal 3D. Efeknya bergantung pada nilai warna batas<br>
+- none- Tidak mendefinisikan batas<br>
+- hidden- Mendefinisikan perbatasan tersembunyi
    
   Border table dengan CSS
-
 
   ![code-border](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/3e13221d-2e64-40a7-85e4-d838d5e07186)
         
   ![border-tabel-css](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/84f74b5d-6430-4651-b8df-7a3211d6a82d)
 
+Untuk Menjelajah lebih dalam mengenai Style-Border bisa kunjungi <a href="https://www.w3schools.com/css/css_border.asp">www.w3schools.com/css/css_border</a>
 
+  <b>5. Tabel Hover</b>
 
-  <b>5. Tabel Hover </b>
+hover adalah pseudo-class yang digunakan untuk memilih elemen ketika pengguna mengarahkan kursor mouse ke atasnya. Ketika kita menggunakan :hover pada tabel, kita dapat memberikan efek interaktif pada baris tabel saat kursor berada di atasnya.
 
   ![code-hover2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/5de750ec-ec5c-4ba2-bfa1-c56bba8c66a5)
           
@@ -373,11 +391,22 @@ Untuk Menjelajah lebih dalam mengenai CSS-Box Model bisa kunjungi <a href="https
   ![hover](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/838549a3-2236-476b-99e8-779b0cd8f813)
          
 
- <b>6. Text Color </b>
+ <b>6. Text Color</b>
          
 ![code-text-color](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/a8364fd9-4497-4d23-b3e6-f0d1ef67cc53)
 
 ![text-color](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/2e5931bc-4c65-4d06-9f31-e7a714191191)
+
+
+<b>7. Background-CSS</b>
+
+a. Background Color
+
+![code-bgcolor](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/97350128-05ba-45b5-b84d-afce00532f49)
+
+![result-bgcolor](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/cc54e71c-82f5-45ca-93ed-0736cfcb5ca6)
+
+b. Background Image
 
 
 <hr>
