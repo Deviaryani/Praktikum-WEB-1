@@ -400,13 +400,39 @@ hover adalah pseudo-class yang digunakan untuk memilih elemen ketika pengguna me
 
 <b>7. Background-CSS</b>
 
-a. Background Color
+Background Color
 
 ![code-bgcolor](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/97350128-05ba-45b5-b84d-afce00532f49)
 
 ![result-bgcolor](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/cc54e71c-82f5-45ca-93ed-0736cfcb5ca6)
 
-b. Background Image
+
+<b>8. CSS-Padding</b>
+
+![code-padding](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/aacbe05a-85b7-4763-9060-00fbd452df95)
+
+![padding](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/35d3c7e1-a8ea-46ad-8b57-b991f6bac6e4)
+
+
+<b>9. CSS-Opasitas</b>
+
+![code-opacity1](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/33290fbc-d44b-4523-9bdf-54b4c2564888)
+
+![code-opacity2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/8ee291c4-47cd-4d44-945b-1fec71c80bab)
+
+![opacity-box](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/6de7964a-bc5e-43fe-9566-27fbbe7bf46b)
+
+<b>10. CSS-Navigation</b>
+
+Memiliki navigasi yang mudah digunakan penting untuk situs web mana pun.
+
+CSS akan mengubah menu HTML yang membosankan menjadi bilah navigasi yang menarik.
+
+![code-nav](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/3fadc6fb-b0c7-49cb-b646-840aa339ac9c)
+
+![code-nav2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/9bcd2bae-bb9b-4d21-af8a-122bf6adb078)
+
+![nav](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/123350f7-16c8-4ba3-8bf1-cb2c49b38bf4)
 
 
 <hr>
