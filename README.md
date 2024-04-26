@@ -11,13 +11,14 @@ Repositori Ini berisi tugas 2 dari mata kuliah Pemrograman Web tentang:<br>
 
 <h2>A. HTML</h2>
 <hr>
-# Apa itu HTML?
+# Apa itu HTML?<br>
 - HTML adalah singkatan dari Hyper Text Markup Language<br>
 - HTML adalah bahasa markup standar untuk membuat halaman Web<br>
 - HTML menjelaskan struktur halaman Web<br>
 - HTML terdiri dari serangkaian elemen<br>
 - Elemen HTML memberi tahu browser cara menampilkan konten<br>
-- Elemen HTML memberi label pada bagian konten seperti "ini adalah judul", "ini adalah paragraf", "ini adalah tautan", dll.<br>
+- Elemen HTML memberi label pada bagian konten seperti "ini adalah judul", "ini adalah paragraf", "ini adalah tautan", dll.=
+
 
 Dokumen HTML dimulai dengan deklarasi DOCTYPE yang menentukan versi HTML yang digunakan, diikuti dengan elemen sebagai akar dari dokumen. Di dalam , terdapat elemen untuk menyertakan informasi metadata seperti judul halaman dan elemen untuk menampilkan konten yang terlihat oleh pengguna.
 
