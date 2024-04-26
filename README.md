@@ -9,8 +9,9 @@ Repositori Ini berisi tugas 2 dari mata kuliah Pemrograman Web tentang:<br>
 - Kode HTML, CSS, JavaScript yang dipelajari di w3schools<br>
 - Beberapa Chalange/live koding yang di praktikum
 
-<h2>A. HTML</h2>
 <hr>
+<h2>A. HTML</h2>
+
 # Apa itu HTML?<br>
 - HTML adalah singkatan dari Hyper Text Markup Language<br>
 - HTML adalah bahasa markup standar untuk membuat halaman Web<br>
