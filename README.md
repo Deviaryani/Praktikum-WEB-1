@@ -380,8 +380,9 @@ Nilai-nilai berikut diperbolehkan:
 
 Untuk Menjelajah lebih dalam mengenai Style-Border bisa kunjungi <a href="https://www.w3schools.com/css/css_border.asp">www.w3schools.com/css/css_border</a>
 
-  <b>5. Tabel Hover</b>
+  <b>5. Tabel</b>
 
+- Tabel Hover
 hover adalah pseudo-class yang digunakan untuk memilih elemen ketika pengguna mengarahkan kursor mouse ke atasnya. Ketika kita menggunakan :hover pada tabel, kita dapat memberikan efek interaktif pada baris tabel saat kursor berada di atasnya.
 
   ![code-hover2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/5de750ec-ec5c-4ba2-bfa1-c56bba8c66a5)
@@ -389,14 +390,28 @@ hover adalah pseudo-class yang digunakan untuk memilih elemen ketika pengguna me
   ![code-hover](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/4e6e7ce1-5972-42dd-805d-d2ef60f09bd0)
           
   ![hover](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/838549a3-2236-476b-99e8-779b0cd8f813)
-         
 
+         
+- Tabel background baris judul dan baris ganjil-genap berbeda warna dengan CSS 
+
+![code1-tablecss](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/d79e88a3-87b0-4ca0-b628-f61375f21803)
+
+![code2-tablecss](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/3d1b5b82-1a6c-4e87-9446-12c5b0cedb5f)
+
+![code3-tablecss](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/9adfadb9-c975-40e4-8c18-cb48787a78cf)
+
+![table-css](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/376b1352-0653-4a12-a63c-44ca3c55018d)
+
+Untuk Menjelajah lebih dalam mengenai CSS-Table bisa kunjungi <a href="https://www.w3schools.com/css/css_table.asp">www.w3schools.com/css/css_table.asp</a>
+
+  
  <b>6. Text Color</b>
          
 ![code-text-color](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/a8364fd9-4497-4d23-b3e6-f0d1ef67cc53)
 
 ![text-color](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/2e5931bc-4c65-4d06-9f31-e7a714191191)
 
+Untuk Menjelajah lebih dalam mengenai CSS-Text bisa kunjungi <a href="https://www.w3schools.com/css/css_text.asp">www.w3schools.com/css/css_text.asp</a>
 
 <b>7. Background-CSS</b>
 
@@ -406,12 +421,16 @@ Background Color
 
 ![result-bgcolor](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/cc54e71c-82f5-45ca-93ed-0736cfcb5ca6)
 
+Untuk Menjelajah lebih dalam mengenai CSS-Background bisa kunjungi <a href="https://www.w3schools.com/css/css_background.asp">www.w3schools.com/css/css_background.asp</a>
+
 
 <b>8. CSS-Padding</b>
 
 ![code-padding](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/aacbe05a-85b7-4763-9060-00fbd452df95)
 
 ![padding](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/35d3c7e1-a8ea-46ad-8b57-b991f6bac6e4)
+
+Untuk Menjelajah lebih dalam mengenai CSS-Padding bisa kunjungi <a href="https://www.w3schools.com/css/css_padding.asp">www.w3schools.com/css/css_padding.asp</a>
 
 
 <b>9. CSS-Opasitas</b>
@@ -421,6 +440,8 @@ Background Color
 ![code-opacity2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/8ee291c4-47cd-4d44-945b-1fec71c80bab)
 
 ![opacity-box](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/6de7964a-bc5e-43fe-9566-27fbbe7bf46b)
+
+Untuk Menjelajah lebih dalam mengenai CSS-Opasitas bisa kunjungi <a href="https://www.w3schools.com/css/css_image_transparency.asp">www.w3schools.com/css/css_image_transparency.asp</a>
 
 <b>10. CSS-Navigation</b>
 
@@ -434,10 +455,12 @@ CSS akan mengubah menu HTML yang membosankan menjadi bilah navigasi yang menarik
 
 ![nav](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/123350f7-16c8-4ba3-8bf1-cb2c49b38bf4)
 
+Untuk Menjelajah lebih dalam mengenai CSS-Navigation bisa kunjungi <a href="https://https://www.w3schools.com/css/css_navbar.asp">www.w3schools.com/css/css_navbar</a>
+
 
 <hr>
 
-<b>C. JavaScript<b/>
+# JAVASCRIPT
 
 # Apa itu JAVASCRIPT
 
@@ -461,6 +484,8 @@ Variabel JavaScript dapat dideklarasikan dengan 4 cara:<br>
 
 
 - Menggunakan var<br>
+
+Hanya gunakan var jika Anda HARUS mendukung browser lama.
 <script>
 var x = 5;
 var y = 6;
@@ -474,8 +499,10 @@ document.getElementById("demo").innerHTML =
 ![var](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0ee8c0ce-b3a2-40aa-b957-edef2e041e9c)
 
 
-
 - Menggunakan let<br>
+
+Direkomendasikan untuk penggunaan variabel yang nilainya akan berubah.
+
 <script>
 let x = 5;
 let y = 6;
@@ -484,14 +511,15 @@ document.getElementById("demo").innerHTML =
 "The value of z is: " + z;
 </script>
 
-![code-let](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/1e875208-af12-4848-9bf3-f4593294b4f7)
+![code-let](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/2f564f04-0cac-495b-86e0-8958c38da1ab)
 
 
-![let-var](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/dbd699e7-177b-45cc-97da-d5174ec937ed)
-
+![let-var](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/dbd699e7-177b-45cc-97da-d5174ec937ed
 
 
 - Menggunakan const<br>
+
+Direkomendasikan untuk penggunaan variabel yang nilainya tetap.
 <script>
 const x = 5;
 const y = 6;
@@ -526,7 +554,7 @@ Aturan umum untuk membuat nama variabel (pengidentifikasi unik) adalah:<br>
 - javaScript peka huruf besar-kecil. Semua pengidentifikasi JavaScript peka huruf besar-kecil . Variabel lastNamedan lastname, adalah dua variabel yang berbeda.<br>
 - JavaScript menggunakan kumpulan karakter Unicode . Unicode mencakup (hampir) semua karakter, tanda baca, dan simbol di dunia.<br>
 
-
+Untuk Menjelajah lebih dalam mengenai JS-Arithmetic bisa kunjungi <a href="https://www.w3schools.com/js/js_variables.asp">www.w3schools.com/js/js_variables</a>
 
 <b>3. Tipe Data JavaScript</b>
    
@@ -587,10 +615,34 @@ Anda dapat menggunakan kode yang sama dengan argumen berbeda, untuk menghasilkan
 
 ![fungsi](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f4918e37-b37a-4cad-abf2-1af498d9fbfd)
 
+<b>5. JS FUNCTIONS</b>
 
-# Syntax Functions
+Syntax Functions
 - Fungsi JavaScript didefinisikan dengan functionkata kunci, diikuti dengan nama , diikuti dengan tanda kurung () .
 - Nama fungsi dapat berisi huruf, angka, garis bawah, dan tanda dolar (aturannya sama seperti variabel).
 - Tanda kurung dapat menyertakan nama parameter yang dipisahkan dengan koma:( parameter1, parameter2, ... )
 
 Untuk Menjelajah lebih dalam mengenai JS-Functions bisa kunjungi <a href="https://www.w3schools.com/js/js_functions.asp">www.w3schools.com/js/js_functions</a>
+
+<b>5. JS EVENTS</b>
+
+Event dalam JavaScript adalah kejadian yang terjadi di halaman web. Kejadian ini dapat berupa aktivitas yang dilakukan oleh pengguna atau aktivitas yang dilakukan oleh browser. 
+
+Berikut adalah beberapa contoh acara HTML:<br>
+- Halaman web HTML telah selesai dimuat<br>
+- Bidang masukan HTML telah diubah<br>
+- Tombol HTML diklik
+
+Dalam contoh berikut, sebuah onclickatribut (dengan kode), ditambahkan ke sebuah <button> elemen:
+
+![code-onclick](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0231bb89-e02b-420c-b789-faa20137279d)
+
+Ini adalah tampilan awal sebelum button <b>The time is<b> dipencet
+
+![onclick1](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/b57311e4-e2f3-4807-9c6b-71e246b63aec)
+
+Ini adalah tampilan setelah button <b>The time is<b> dipencet
+
+![onclick2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/a4647cab-d417-4fe3-a4a8-e4ba0dab8b8a)
+
+Untuk Menjelajah lebih dalam mengenai JS-Events bisa kunjungi <a href="https://www.w3schools.com/js/js_events.asp">www.w3schools.com/js/js_events</a>
