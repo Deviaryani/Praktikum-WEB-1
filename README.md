@@ -5,7 +5,9 @@
 Repositori Ini berisi tugas 2 dari mata kuliah Pemrograman Web tentang:<br>
 - HTML<br>
 - CSS<br>
-- JavaScript
+- JavaScript<br>
+- Kode HTML, CSS, JavaScript yang dipelajari di w3schools<br>
+- Beberapa Chalange/live koding yang di praktikum
 
 <h2>A. HTML</h2>
 <hr>
