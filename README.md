@@ -198,7 +198,7 @@ Untuk Menjelajah lebih dalam mengenai Tingkat Blok Element HTML bisa kunjungi <a
 
 <h2>B. CSS</h2>
 
-# Apa itu CSS<br>
+<h2>Apa itu CSS<br></h2>
 - CSS adalah singkatan dari Cascading Style Sheet<br>
 - CSS menjelaskan bagaimana elemen HTML ditampilkan di layar, kertas, atau di media lain<br>
 - CSS menghemat banyak pekerjaan. Itu dapat mengontrol tata letak beberapa halaman web sekaligus<br>
@@ -207,7 +207,7 @@ Untuk Menjelajah lebih dalam mengenai Tingkat Blok Element HTML bisa kunjungi <a
 
 
 
-# sintaks CSS:<br>
+<h2>sintaks CSS:<br></h2>
 - selector menunjuk ke elemen HTML yang ingin Anda gaya.<br>
 - Blok deklarasi berisi satu atau lebih deklarasi yang dipisahkan oleh titik koma.<br>
 - Setiap deklarasi menyertakan nama properti CSS dan nilainya, dipisahkan oleh titik dua.<br>
@@ -228,7 +228,7 @@ penjelasan:<br>
 - text-align adalah properti, dan center merupakan nilai properti
 
 
-# CSS SELECTOR
+<h2>CSS SELECTOR</h2>
 
 <b>1. selector ID CSS</b>
 
@@ -299,7 +299,7 @@ h2 {
 Untuk Menjelajah lebih dalam mengenai CSS-SELECTOR bisa kunjungi <a href="https://www.w3schools.com/css/css_selectors.asp">www.w3schools.com/html/css_selectors.asp</a>
 
 
-# Tiga Cara Memasukkan CSS
+<h2>Tiga Cara Memasukkan CSS</h2>
 
 Ada tiga cara menyisipkan style sheet:<br>
 - CSS eksternal<br>
@@ -337,7 +337,7 @@ Gaya inline dapat digunakan untuk menerapkan gaya unik pada satu elemen.
 <b>Untuk Menjelajah lebih dalam mengenai Cara Memasukan CSS bisa kunjungi <a href="https://https://www.w3schools.com/css/css_howto.asp">www.w3schools.com/html/css_howto.asp</a></b>
 
 
-# Perintah di CSS:
+<h2>Perintah di CSS:</h2>
 
 <b>1. List - CSS</b>
 
@@ -489,7 +489,7 @@ Untuk Menjelajah lebih dalam mengenai CSS-Navigation bisa kunjungi <a href="http
 
 <h2>C. JAVASCRIPT</h2>
 
-# Apa itu JAVASCRIPT
+<h2>Apa itu JAVASCRIPT</h2>
 
 JavaScript adalah bahasa pemrograman yang digunakan dalam pengembangan website agar lebih dinamis dan interaktif. JavaScript dapat meningkatkan fungsionalitas pada halaman web. Bahkan dengan JavaScript ini kamu bisa membuat aplikasi, tools, atau bahkan game pada web.
 
