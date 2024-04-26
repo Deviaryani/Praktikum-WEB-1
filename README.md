@@ -1,4 +1,4 @@
-<h1>Praktikum-WEB-1</h1>h1>
+<h1>Praktikum-WEB-1</h1>
 <hr>
 <h2><b>Tugas 2</b></h2>
 <hr>
@@ -196,7 +196,7 @@ Untuk Menjelajah lebih dalam mengenai Tingkat Blok Element HTML bisa kunjungi <a
 
 <hr>
 
-<h1>B. CSS</h1>
+<h2>B. CSS</h2>
 
 # Apa itu CSS<br>
 - CSS adalah singkatan dari Cascading Style Sheet<br>
@@ -487,7 +487,7 @@ Untuk Menjelajah lebih dalam mengenai CSS-Navigation bisa kunjungi <a href="http
 
 <hr>
 
-# JAVASCRIPT
+<h2>C. JAVASCRIPT</h2>
 
 # Apa itu JAVASCRIPT
 
