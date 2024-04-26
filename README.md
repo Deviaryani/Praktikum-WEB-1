@@ -10,9 +10,11 @@ Repositori Ini berisi tugas 2 dari mata kuliah Pemrograman Web tentang:<br>
 - Beberapa Chalange/live koding yang di praktikum
 
 <hr>
-<h2>A. HTML</h2>
 
-# Apa itu HTML?<br>
+# A. HTML
+
+<h2>Apa itu HTML?</h2>
+  
 - HTML adalah singkatan dari Hyper Text Markup Language<br>
 - HTML adalah bahasa markup standar untuk membuat halaman Web<br>
 - HTML menjelaskan struktur halaman Web<br>
@@ -37,7 +39,8 @@ Deklarasi tersebut !DOCTYPE html mendefinisikan bahwa dokumen ini adalah dokumen
 - Elemen p mendefinisikan paragraf<br>
 
   
-# Apa itu Elemen HTML?<br>
+<h2>Apa itu Elemen HTML?<br></h2>
+
 Elemen HTML ditentukan oleh tag awal, beberapa konten, dan tag akhir.Elemen HTML adalah segalanya mulai dari tag awal hingga tag akhir. Elemen HTML dapat disarangkan (artinya elemen dapat berisi elemen lain). Semua dokumen HTML terdiri dari elemen HTML bersarang.<br>
 
 Contoh berikut berisi empat elemen HTML ( html, body, h1 dan p)<br>
@@ -53,7 +56,7 @@ Contoh berikut berisi empat elemen HTML ( html, body, h1 dan p)<br>
 - Standar HTML tidak memerlukan tag huruf kecil, tetapi direkomendasikan huruf kecil dalam HTML<br>
 
   
- # Attributes HTML:<br>
+ <h2>Attributes HTML:<br></h2>
 
 - Semua elemen HTML dapat memiliki atribut. Atribut memberikan informasi --tambahan tentang elemen.Atribut selalu ditentukan dalam tag awal. Atribut -biasanya datang dalam    pasangan nama/nilai seperti: name="value" . Semua elemen HTML dapat memiliki atribut.<br>
 - Atribut href menentukan a, URL halaman yang dituju link tersebut<br>
@@ -68,7 +71,8 @@ Atribut title mendefinisikan beberapa informasi tambahan tentang suatu elemen
 Untuk Menjelajah lebih dalam mengenai Atrribut-HTML bisa kunjungi <a href="https://www.w3schools.com/html/html_attributes.asp">www.w3schools.com/html/html_attributes</a>
 
 
-# Beberapa perintah di HTML:<br>
+<h2>Beberapa perintah di HTML:<br></h2>
+
 <b>1. Heading HTML<br></b>
 Heading HTML ditentukan dengan tag h1 to h6. h1 mendefinisikan judul yang paling penting. h6 mendefinisikan judul yang paling tidak penting
 
@@ -200,7 +204,7 @@ Untuk Menjelajah lebih dalam mengenai Tingkat Blok Element HTML bisa kunjungi <a
 
 <hr>
 
-<h2>B. CSS</h2>
+# B. CSS
 
 <h2>Apa itu CSS<br></h2>
 - CSS adalah singkatan dari Cascading Style Sheet<br>
@@ -491,7 +495,7 @@ Untuk Menjelajah lebih dalam mengenai CSS-Navigation bisa kunjungi <a href="http
 
 <hr>
 
-<h2>C. JAVASCRIPT</h2>
+# C. JAVASCRIPT
 
 <h2>Apa itu JAVASCRIPT</h2>
 
