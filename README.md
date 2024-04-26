@@ -1,6 +1,14 @@
 ## Praktikum-WEB-1
-<h1>A. HTML</h1>
+<hr>
+<h1><b>Tugas 2</b></h1>
+<hr>
+Repositori Ini berisi tugas 2 dari mata kuliah Pemrograman Web tentang:<br>
+- HTML<br>
+- CSS<br>
+- JavaScript
 
+<h1>A. HTML</h1>
+<hr>
 # Apa itu HTML?
 - HTML adalah singkatan dari Hyper Text Markup Language<br>
 - HTML adalah bahasa markup standar untuk membuat halaman Web<br>
@@ -9,9 +17,14 @@
 - Elemen HTML memberi tahu browser cara menampilkan konten<br>
 - Elemen HTML memberi label pada bagian konten seperti "ini adalah judul", "ini adalah paragraf", "ini adalah tautan", dll.<br>
 
+Dokumen HTML dimulai dengan deklarasi DOCTYPE yang menentukan versi HTML yang digunakan, diikuti dengan elemen sebagai akar dari dokumen. Di dalam , terdapat elemen untuk menyertakan informasi metadata seperti judul halaman dan elemen untuk menampilkan konten yang terlihat oleh pengguna.
 
-Penjelasan:
+Contoh Struktur Dokumen HTML:
 
+![document](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/994e6649-734a-43b7-87b0-1cd34254c50a)
+
+
+Penjelasan:<br>
 Deklarasi tersebut !DOCTYPE html mendefinisikan bahwa dokumen ini adalah dokumen HTML5<br>
 - Elemen html adalah elemen akar dari halaman HTML<br>
 - Elemen tersebut head berisi informasi meta tentang halaman HTML<br>-Elemen title menentukan judul untuk halaman HTML (yang ditampilkan di bilah judul browser atau di tab    halaman)<br>
@@ -578,7 +591,7 @@ JavaScript dapat menangani banyak tipe data, tetapi untuk saat ini, angka dan st
 
 Untuk Menjelajah lebih dalam mengenai JS-Arithmetic bisa kunjungi <a href="https://www.w3schools.com/js/js_datatypes.asp">www.w3schools.com/js/js_datatypes</a>
 
-4. arithmetic javascript
+<b>4. arithmetic javascript<b>
 
 * Penjumlahan
 
@@ -629,7 +642,7 @@ Anda dapat menggunakan kode yang sama dengan argumen berbeda, untuk menghasilkan
 
 ![fungsi](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f4918e37-b37a-4cad-abf2-1af498d9fbfd)
 
-<b>5. JS FUNCTIONS</b>
+<b>6. JS FUNCTIONS</b>
 
 Syntax Functions
 - Fungsi JavaScript didefinisikan dengan functionkata kunci, diikuti dengan nama , diikuti dengan tanda kurung () .
@@ -638,7 +651,7 @@ Syntax Functions
 
 Untuk Menjelajah lebih dalam mengenai JS-Functions bisa kunjungi <a href="https://www.w3schools.com/js/js_functions.asp">www.w3schools.com/js/js_functions</a>
 
-<b>5. JS EVENTS</b>
+<b>7. JS EVENTS</b>
 
 Event dalam JavaScript adalah kejadian yang terjadi di halaman web. Kejadian ini dapat berupa aktivitas yang dilakukan oleh pengguna atau aktivitas yang dilakukan oleh browser. 
 
