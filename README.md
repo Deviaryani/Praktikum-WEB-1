@@ -366,7 +366,7 @@ Contoh berikut menunjukkan cara menambah atau mengurangi spasi antar karakter:
 
   ![letter-space](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/cfea5f5f-2436-48d3-836c-3dfec78fbea4)
 
-Untuk Menjelajah lebih dalam mengenai CSS-Text bisa kunjungi <a href="https://www.w3schools.com/css/css_text_spacing.asp">www.w3schools.com/css/css_text_spacing</a>
+Untuk Menjelajah lebih dalam mengenai CSS-Text bisa kunjungi <a href="https://www.w3schools.com/css/css_text.asp">www.w3schools.com/css/css_text_spacing</a>
 
 <b>3. Box Model</b>
 
