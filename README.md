@@ -50,7 +50,7 @@ Atribut title mendefinisikan beberapa informasi tambahan tentang suatu elemen
 
 
 # Beberapa perintah di HTML:<br>
-  1. Heading HTML<br>
+<b>1. Heading HTML<br></b>
 Heading HTML ditentukan dengan tag h1 to h6. h1 mendefinisikan judul yang paling penting. h6 mendefinisikan judul yang paling tidak penting
 
 
@@ -72,8 +72,8 @@ Adapun jika dimodifikasi ditambahkan css<br>
 
 
 
-  2. Paragraf HTML<br>
-Paragraf HTML didefinisikan dengan <p>tag
+<b>2. Paragraf HTML<br></b>
+Paragraf HTML didefinisikan dengan tag p
 
 ![code2](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/bc3e6548-841b-46d4-95a9-1e0c85fdd5f1)
 
@@ -82,7 +82,7 @@ Paragraf HTML didefinisikan dengan <p>tag
 
 
 
-  3. Link HTML<br>
+<b>3. Link HTML<br></b>
 Link HTML ditentukan dengan a tag. Tujuan link ditentukan dalam href atribut.<br>
  Atribut digunakan untuk memberikan informasi tambahan tentang elemen HTML. 
 
@@ -103,7 +103,7 @@ Gambar HTML ditentukan dengan img tag. File sumber ( src), teks alternatif ( alt
 
 
 
-  5. Table HTML<br>
+<b>5. Table HTML<br></b>
 
 ![code6](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/2351afb2-0ad7-4893-80ae-f416e58545bc)
 
@@ -112,7 +112,7 @@ Gambar HTML ditentukan dengan img tag. File sumber ( src), teks alternatif ( alt
 
 
 
-6. List HTML<br>
+<b>6. List HTML<br></b>
 
 ![code7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0a5a2d85-d45b-42fd-9ba8-2efd9104ff6c)
 
@@ -125,22 +125,22 @@ Adapun jenis List bersarang<br>
 ![result8](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/b9c87db6-3ff0-444f-ae89-82262b787961)
 
 
-7. HTML Div
+<b>7. HTML Div</b>
 
-Elemen ini <div>sering digunakan untuk mengelompokkan bagian-bagian halaman web menjadi satu.
+Elemen ini sering digunakan untuk mengelompokkan bagian-bagian halaman web menjadi satu.
 
 - Elemen tingkat blok selalu dimulai pada baris baru, dan browser secara otomatis menambahkan beberapa spasi (margin) sebelum dan sesudah elemen.<br>
 - Elemen tingkat blok selalu menempati seluruh lebar yang tersedia (meregangkan ke kiri dan kanan sejauh mungkin).<br>
 - Dua elemen blok yang umum digunakan adalah: <p> dan <div>.<br>
-  Elemen <p>mendefinisikan paragraf dalam dokumen HTML.<br>
-  Elemen <div>mendefinisikan divisi atau bagian dalam dokumen HTML.
+  Elemen tag p mendefinisikan paragraf dalam dokumen HTML.<br>
+  Elemen tag div mendefinisikan divisi atau bagian dalam dokumen HTML.
   
 ![code7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/0a5a2d85-d45b-42fd-9ba8-2efd9104ff6c)
 
   ![result7](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f9bb7b8c-6013-4ea6-9d1c-22daa1fc5299)
 
 
-8. HTML CLASS<br>
+<b>8. HTML CLASS<br></b>
 
 Atribut ini classsering digunakan untuk menunjuk ke nama kelas dalam style sheet. Itu juga dapat digunakan oleh JavaScript untuk mengakses dan memanipulasi elemen dengan nama kelas tertentu.
 
@@ -153,15 +153,15 @@ Pada contoh berikut kita memiliki tiga <div>elemen dengan classatribut dengan ni
 ![result-class](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/39cc2d47-4237-4275-9feb-138cbe8cdf74)
 
 
-9. Tingkat blok Element<br>
+<b>9. Tingkat blok Element<br></b>
 
 - Elemen tingkat blok selalu dimulai pada baris baru, dan browser secara otomatis menambahkan beberapa spasi (margin) sebelum dan sesudah elemen.<br>
 - Elemen tingkat blok selalu menempati seluruh lebar yang tersedia (meregangkan ke kiri dan kanan sejauh mungkin).<br>
 - Dua elemen blok yang umum digunakan adalah:<br>
   tag p dan tag div
 
-  Elemen <p>mendefinisikan paragraf dalam dokumen HTML.<br>
-  Elemen <div>mendefinisikan divisi atau bagian dalam dokumen HTML.
+  Elemen tag p mendefinisikan paragraf dalam dokumen HTML.<br>
+  Elemen tag mendefinisikan divisi atau bagian dalam dokumen HTML.
 
 
 ![code-blokelement](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/29558bf3-10ec-4f3a-b6de-67951b245919)
@@ -437,7 +437,7 @@ CSS akan mengubah menu HTML yang membosankan menjadi bilah navigasi yang menarik
 
 <hr>
 
-C. JavaScript
+<b>C. JavaScript<b/>
 
 # Apa itu JAVASCRIPT
 
@@ -445,7 +445,7 @@ JavaScript adalah bahasa pemrograman yang digunakan dalam pengembangan website a
 
 Untuk menggunakan gaya sebaris, tambahkan atribut style ke elemen yang relevan. Atribut style dapat berisi properti CSS apa pun.
 
-1. Variable javascript
+<b>1. Variable javascript</b>
 Dalam bahasa pemrograman, variabel digunakan untuk menyimpan nilai data.<br>
 JavaScript menggunakan kata kunci var, letdan constuntuk mendeklarasikan variabel.<br>
 
@@ -505,7 +505,7 @@ document.getElementById("demo").innerHTML =
 ![const](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/7b1c9dc5-a080-433f-a141-731bd76a7e44)
 
 
-2. Pengidentifikasi / Nama JavaScript<br>
+<b>2. Pengidentifikasi / Nama JavaScript<br></b>
 Pengidentifikasi adalah nama JavaScript.
 
 Pengidentifikasi digunakan untuk memberi nama variabel dan kata kunci, serta fungsi. Aturan untuk nama resmi sama di sebagian besar bahasa pemrograman.<br>
@@ -528,16 +528,17 @@ Aturan umum untuk membuat nama variabel (pengidentifikasi unik) adalah:<br>
 
 
 
-3. Tipe Data JavaScript
+<b>3. Tipe Data JavaScript</b>
    
 Variabel JavaScript dapat menampung angka seperti 100 dan nilai teks seperti "John Doe". Dalam pemrograman, nilai teks disebut string teks.
 
 JavaScript dapat menangani banyak tipe data, tetapi untuk saat ini, angka dan string. String ditulis di dalam tanda kutip ganda atau tunggal. Angka ditulis tanpa tanda petik. Jika Anda memasukkan angka dalam tanda kutip, angka tersebut akan diperlakukan sebagai string teks.
 
+Untuk Menjelajah lebih dalam mengenai JS-Arithmetic bisa kunjungi <a href="https://www.w3schools.com/js/js_datatypes.asp">www.w3schools.com/js/js_datatypes</a>
 
 4. arithmetic javascript
 
-* Tambah
+* Penjumlahan
 
  ![code-add](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/e38b2aa0-30bf-46b4-8dc2-9f621060d165)
 
@@ -546,7 +547,7 @@ JavaScript dapat menangani banyak tipe data, tetapi untuk saat ini, angka dan st
 
 
 
-  * Kurang
+  * Pengurangan
 
   ![code-kurangi](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/75dff3c1-a2a4-4d74-a5f2-bbea65bd2d00)
 
@@ -555,22 +556,41 @@ JavaScript dapat menangani banyak tipe data, tetapi untuk saat ini, angka dan st
 
 
 
-  * Kali
+ * Perkalian
  
-    ![alt text](https://github.com/rinanur-web/praktikum-web1/blob/main/gambar/Screenshot%202024-04-05%20125622.png?raw=true)
+![perkalian](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/512f2021-ee9e-438c-9bc4-b42fc6fc4beb)
 
-    ![alt text](https://github.com/rinanur-web/praktikum-web1/blob/main/gambar/Screenshot%202024-04-05%20125555.png?raw=text)
+![code-perkalian](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/ebd8936e-da38-48c8-9801-1056481366c5)
 
 
-    * Bagi
+ * Pembagian
    
-      ![alt text](https://github.com/rinanur-web/praktikum-web1/blob/main/gambar/Screenshot%202024-04-05%20125653.png?raw=text)
+      ![code-pembagian](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/9b826cac-eace-4c09-8e14-f0c8f84d5e49)
 
-      ![alt text](https://github.com/rinanur-web/praktikum-web1/blob/main/gambar/Screenshot%202024-04-05%20125643.png?raw=text)
+      ![pembagian](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/971aa63f-31b8-4f8a-a247-dc3488c11505)
+
+Untuk Menjelajah lebih dalam mengenai JS-Arithmetic bisa kunjungi <a href="https://www.w3schools.com/js/js_arithmetic.asp">www.w3schools.com/js/js_arithmetic</a>
+
+<b>5. Function JavaScript</b>
+
+Fungsi JavaScript adalah blok kode yang dirancang untuk melakukan tugas tertentu.
+
+Fungsi JavaScript dijalankan ketika "sesuatu" memanggil (fungsi).
+
+Dengan fungsi Anda dapat menggunakan kembali kode
+
+Anda dapat menulis kode yang dapat digunakan berkali-kali.
+
+Anda dapat menggunakan kode yang sama dengan argumen berbeda, untuk menghasilkan hasil yang berbeda.
+
+![code-fungsi](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/bc4a56a8-68f9-4f87-988b-d6892b16a69f)
+
+![fungsi](https://github.com/Deviaryani/Praktikum-WEB-1/assets/152271190/f4918e37-b37a-4cad-abf2-1af498d9fbfd)
 
 
-      * Modulus
-     
-        ![alt text](https://github.com/rinanur-web/praktikum-web1/blob/main/gambar/Screenshot%202024-04-05%20125724.png?raw=true)
+# Syntax Functions
+- Fungsi JavaScript didefinisikan dengan functionkata kunci, diikuti dengan nama , diikuti dengan tanda kurung () .
+- Nama fungsi dapat berisi huruf, angka, garis bawah, dan tanda dolar (aturannya sama seperti variabel).
+- Tanda kurung dapat menyertakan nama parameter yang dipisahkan dengan koma:( parameter1, parameter2, ... )
 
-        ![alt text](https://github.com/rinanur-web/praktikum-web1/blob/main/gambar/Screenshot%202024-04-05%20125712.png?raw=true)
+Untuk Menjelajah lebih dalam mengenai JS-Functions bisa kunjungi <a href="https://www.w3schools.com/js/js_functions.asp">www.w3schools.com/js/js_functions</a>
