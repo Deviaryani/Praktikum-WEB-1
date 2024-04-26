@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+  position: relative;
+}
+
+.topleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+
+.bottomleft {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+
+.bottomright {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+
+.center {   
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+img { 
+  width: 100%;
+  height: auto;
+  opacity: 0.3;
+}
+</style>
+</head>
+<body>
+
+<h2>Image Text</h2>
+<p>Add some text to an image in the top left corner:</p>
+
+<div class="container">
+  <img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQi87rXxldh2sH46qQs2BA5F0RTjRqfYgyczWM1NavYrB3yiK_CspQV_Ea5nVdwPlKCrqpVJsFxTR7NmHCQE-kNpEDAFSzA2wkk8aR3xQ" alt="Cinque Terre" width="1000" height="300">
+  <div class="topleft">Top Left</div>
+  <div class="topright">Top Right</div>
+  <div class="bottomleft">Bottom Left</div>
+  <div class="bottomright">Bottom Right</div>
+  <div class="center">Center</div>
+</div>
+
+</body>
+</html>
+
+
